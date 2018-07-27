@@ -1,0 +1,14 @@
+C:\Users\rnayyar\source\repos\DS\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\rnayyar\source\repos\DS\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\source\repos\DS\DS\bin\Debug\DS.exe.config
+C:\Users\rnayyar\source\repos\DS\DS\bin\Debug\DS.exe
+C:\Users\rnayyar\source\repos\DS\DS\bin\Debug\DS.pdb
+C:\Users\rnayyar\source\repos\DS\DS\obj\Debug\DS.exe
+C:\Users\rnayyar\source\repos\DS\DS\obj\Debug\DS.pdb
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\bin\Debug\DS.exe.config
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\bin\Debug\DS.exe
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\bin\Debug\DS.pdb
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\obj\Debug\DS.csprojAssemblyReference.cache
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\obj\Debug\DS.csproj.CoreCompileInputs.cache
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\obj\Debug\DS.exe
+C:\Users\rnayyar\Desktop\Assignment\Data Structure System\DS\obj\Debug\DS.pdb
